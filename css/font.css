@@ -1,0 +1,35 @@
+.quicksand-bold
+{
+    font-family: 'Quicksand', sans-serif; 
+    font-weight:bold;
+}
+.quicksand
+{
+    font-family: 'Quicksand', sans-serif;
+}
+
+.quicksand-italic
+{
+    font-family: 'Quicksand', sans-serif; 
+    font-style: italic;
+}
+.quicksand-big
+{
+    /*font-style: 80px;*/
+    font-family: 'Quicksand', sans-serif; 
+    
+}
+.quicksand-header
+{
+    font-family: 'Quicksand', sans-serif; 
+    font-weight:bold;
+    font-size: 20px;
+}
+.quicksand-center
+{
+    font-family: 'Quicksand', sans-serif; 
+    text-align: center;
+    font-weight:bold;
+    margin-top:50px;
+    margin-bottom:50px;
+}
